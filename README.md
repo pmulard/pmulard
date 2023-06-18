@@ -13,7 +13,7 @@ class AboutMe {
         nationalities = ['American', 'French']
         countriesVisited = 7
 
-        return [location, nationality, countriesVisited]
+        return [location, nationalities, countriesVisited]
     }
 }
 ```
