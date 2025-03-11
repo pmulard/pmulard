@@ -22,6 +22,6 @@ class AboutMe {
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=rust,js,python,react,docker,kubernetes" />
+        <img src="https://skillicons.dev/icons?i=rust,ts,python,react,docker,kubernetes" />
     </a>
 </p>
