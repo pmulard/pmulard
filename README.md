@@ -2,14 +2,14 @@
 class AboutMe {
     static socials() {
         linkedin = 'linkedin.com/in/petermulard'
-        instagram = 'instagram.com/pmully94'
+        instagram = 'instagram.com/p.mulard'
         website = 'petermulard.me'
 
         return [linkedin, instagram, website]
     }    
 
     static life() {
-        location = 'San Francisco, CA'
+        location = 'Santa Barbara, CA'
         nationalities = ['American', 'French']
         countriesVisited = 7
 
